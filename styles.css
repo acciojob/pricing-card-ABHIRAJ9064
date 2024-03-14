@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+.box{
+width: 400px;
+height: 500px;	
+padding: 50px;
+background-color: #eeeeee;
+box-shadow: 5px;
+text-align: center;	
+}
+.button{
+  background-color: #FE625A ;
+  border: none;
+  color: white;
+  padding: 20px;
+  display: inline-block;
+  font-size: 30px;
+	border-radius: 15px;
+
+}	
+	
